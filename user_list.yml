@@ -1,0 +1,10 @@
+users:
+   - name: andy
+     job: developer
+     uid: 5005
+   - name: bill
+     job: developer
+     uid: 6006
+   - name: candy
+     job: manager
+     uid: 7007
